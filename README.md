@@ -1,1 +1,1 @@
-# Outside-tech-frontenf-challenge
+# Outside-tech-frontend-challenge
